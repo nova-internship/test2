@@ -2,7 +2,7 @@
 function onSaveBtn() {
     //alert(1);
     var text = $("#Memo").val();
-    alert( text );
+    //alert( text );
     translator( text );
 }
 

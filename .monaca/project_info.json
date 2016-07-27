@@ -7,11 +7,5 @@
     "xcode_version": "6",
     "cordova_version": "4.1",
     "plugin_settings": [],
-    "title-ja": "translator2",
-    "title-en": "",
-    "description-ja": "",
-    "description-en": "",
-    "category": "User Template",
-    "platform": [],
-    "name": "generated-1439540619-55cd99037e2193cf1be2094e"
+    "external_plugins": []
 }
