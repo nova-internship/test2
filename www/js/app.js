@@ -1,6 +1,6 @@
 ///// Save memo and return to top page
 function onSaveBtn() {
-    alert(1);
+    //alert(1);
     var text = $("#Memo").val();
     alert( text );
     translator( text );
