@@ -5,6 +5,7 @@ function onSaveBtn() {
     //alert( text );
     translator( text );
     // taakiix5のコメント
+    // taakiix5のコメント２
     // nova-internship　コメント
 }
 
