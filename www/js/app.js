@@ -4,6 +4,7 @@ function onSaveBtn() {
     var text = $("#Memo").val();
     //alert( text );
     translator( text );
+    // nova-internship　コメント
 }
 
 ///// Initialize top page
